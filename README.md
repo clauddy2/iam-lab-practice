@@ -13,4 +13,4 @@ This repo is where I practise before doing the real labs.
 
 Here is a link: [Microsoft Entra documentation](https://learn.microsoft.com/entra/)
 
-
+![A practice screenshot](https://github.com/clauddy2/iam-lab-practice/blob/main/screenshot/practice-shot.png?raw=true)
