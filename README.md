@@ -18,7 +18,8 @@ The main sections of work.
 
 ## Screenshots
 
-![Description of the image](screenshots/practice-shot.png)
+![Description of the image](https://github.com/clauddy2/iam-lab-practice/blob/fa681533ee0a3e39955b09210779e7322934a4a1/practice-shot.PNG)
+
 
 ## Security Lessons Learned
 
